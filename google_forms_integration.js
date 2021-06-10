@@ -1,3 +1,6 @@
+// Put this script in the "Script Editor" -> "Integrations" section of your Google Form. 
+// Then create a webhook in Discord, and paste the URL below.
+
 var POST_URL = "<PUT WEBHOOK URL HERE>";
 
 
